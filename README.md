@@ -8,12 +8,11 @@
   web页面用flv.js播放http-flv，调用php页面执行GPIO操作，完成小车控制。
 
 ## Usage
-<ol>
-<li>自行编译安装ffmpeg,wiringpi</li>
-<li>运行 `sudo modprobe bcm2835-v4l2` 解决摄像头驱动</li> 
-<li><a href="https://github.com/gwuhaolin/livego/releases">点此</a>下载对应版本的livego</li>
-<li>运行sh目录下的 `openCam.sh` </li>
-<li>访问car.php页面应该就可以了吧</li>
+- 自行编译安装ffmpeg,wiringpi
+- 运行 `sudo modprobe bcm2835-v4l2`解决摄像头驱动 
+- <a href="https://github.com/gwuhaolin/livego/releases">点此</a>下载对应版本的livego
+- 运行sh目录下的 `openCam.sh`
+- 访问car.php页面应该就可以了吧
 </ol>
 
 

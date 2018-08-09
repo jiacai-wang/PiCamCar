@@ -42,7 +42,7 @@
 	<li><del>加上音频采集</del>&nbsp;&nbsp;不加了，又要买usb麦</li>
 	<li><del>造个小车</del> √</li>
 	<li><del>树莓派GPIO控制小车马达转动</del> √</li>
-	<li>实现web控制</li>
+	<li><del>实现web控制</del>&nbsp;&nbsp;√&nbsp;还行还行</li>
 </ol>
 <p>注：因页面有几秒延时(内网3s，外网7s左右)，前进后退动作只持续0.3s<p>
 <br>

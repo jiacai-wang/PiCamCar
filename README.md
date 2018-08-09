@@ -23,4 +23,10 @@
 
 ## 它最后长这b样
 
+####没开摄像头时：
+![demo1](https://raw.githubusercontent.com/jiacai-wang/PiCamCar/master/picture/demo1.png)
+####开了摄像头：
+![demo2](https://raw.githubusercontent.com/jiacai-wang/PiCamCar/master/picture/demo2.png)
+####小车：
+![demo3](https://raw.githubusercontent.com/jiacai-wang/PiCamCar/master/picture/demo3.jpg)
 

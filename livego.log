@@ -1,0 +1,20 @@
+2018/08/09 18:10:26 main.go:106: start livego, version 0.0.4
+2018/08/09 18:10:26 main.go:58: RTMP Listen On :1935
+2018/08/09 18:10:26 main.go:40: HLS listen On :7002
+2018/08/09 18:10:26 main.go:75: HTTP-FLV listen On :7001
+2018/08/09 18:10:27 rtmp.go:88: new client, connect remote: [::1]:50226 local: [::1]:1935
+2018/08/09 18:10:28 conn_server.go:280: handle publish req done
+2018/08/09 18:10:28 rtmp.go:109: new publisher: <key: live/movie, URL: rtmp://localhost:1935/live/movie, UID: SJODxz8ERimHoGQs, Inter: false>
+2018/08/09 18:10:28 hls.go:61: new hls source
+2018/08/09 18:10:28 source.go:117: [<key: live/movie, URL: rtmp://localhost:1935/live/movie, UID: SJODxz8ERimHoGQs, Inter: true>] hls sender start
+2018/08/09 18:10:29 server.go:92: url: /live/movie.flv path: live/movie paths: [live movie]
+2018/08/09 18:14:25 main.go:106: start livego, version 0.0.4
+2018/08/09 18:14:25 main.go:58: RTMP Listen On :1935
+2018/08/09 18:14:25 main.go:75: HTTP-FLV listen On :7001
+2018/08/09 18:14:25 main.go:40: HLS listen On :7002
+2018/08/09 18:14:27 rtmp.go:88: new client, connect remote: [::1]:50230 local: [::1]:1935
+2018/08/09 18:14:27 conn_server.go:280: handle publish req done
+2018/08/09 18:14:27 rtmp.go:109: new publisher: <key: live/movie, URL: rtmp://localhost:1935/live/movie, UID: Kzmnn_UCRdqsCj2o, Inter: false>
+2018/08/09 18:14:27 hls.go:61: new hls source
+2018/08/09 18:14:27 source.go:117: [<key: live/movie, URL: rtmp://localhost:1935/live/movie, UID: Kzmnn_UCRdqsCj2o, Inter: true>] hls sender start
+2018/08/09 18:14:28 server.go:92: url: /live/movie.flv path: live/movie paths: [live movie]

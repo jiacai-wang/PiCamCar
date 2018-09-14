@@ -21,12 +21,13 @@
 用到的开源项目：<a href="https://github.com/Bilibili/flv.js">flv.js</a>、<a href="https://github.com/gwuhaolin/livego">livego</a>、<a href="https://ffmpeg.org/">FFmpeg</a>、<a href="http://wiringpi.com/">Wiring Pi</a>。感谢大佬们。
 
 
-## 它最后长这b样
+## 它最后长这样
 
+#### 小车：
+![demo3](https://raw.githubusercontent.com/jiacai-wang/PiCamCar/master/picture/demo3.jpg)
 #### 没开摄像头时：
 ![demo1](https://raw.githubusercontent.com/jiacai-wang/PiCamCar/master/picture/demo1.png)
 #### 开了摄像头：
 ![demo2](https://raw.githubusercontent.com/jiacai-wang/PiCamCar/master/picture/demo2.png)
-#### 小车：
-![demo3](https://raw.githubusercontent.com/jiacai-wang/PiCamCar/master/picture/demo3.jpg)
+
 

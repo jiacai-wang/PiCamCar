@@ -12,7 +12,7 @@
 - 运行 `sudo modprobe bcm2835-v4l2`解决摄像头驱动 
 - <a href="https://github.com/gwuhaolin/livego/releases">点此</a>下载对应版本的livego（树莓派对应版本为*_linux_armv6.tar.gz）
 - 运行sh目录下的 `openCam.sh`
-- <small>(推流不成功的话看看ffmpeg.log找原因。也可以试试raspivid通过管道给ffmpeg然后推到rtmp)</small>
+- *(推流不成功的话看看ffmpeg.log找原因。也可以试试raspivid通过管道给ffmpeg然后推到rtmp)*
 - 更改car.php文件第64行的url为livego的flv路径（具体请参考[这里](https://github.com/gwuhaolin/livego/blob/master/README.md)）
 - 访问car.php页面应该就可以了吧
 - 完了记得执行 `closeCam.sh`关掉摄像头

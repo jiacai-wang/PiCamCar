@@ -10,7 +10,7 @@
 ## Usage
 - 自行编译安装ffmpeg,wiringpi
 - 运行 `sudo modprobe bcm2835-v4l2`解决摄像头驱动 
-- <a href="https://github.com/gwuhaolin/livego/releases">点此</a>下载对应版本的livego（树莓派对应版本为*-linux_armv6.tar.gz）
+- <a href="https://github.com/gwuhaolin/livego/releases">点此</a>下载对应版本的livego（树莓派对应版本为*_linux_armv6.tar.gz）
 - 运行sh目录下的 `openCam.sh`
 - 更改car.php文件第64行的url为livego的flv路径（具体请参考[这里](https://github.com/gwuhaolin/livego/blob/master/README.md)）
 - 访问car.php页面应该就可以了吧

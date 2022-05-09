@@ -61,7 +61,7 @@
         var videoElement = document.getElementById('videoElement');
         var flvPlayer = flvjs.createPlayer({
             type: 'flv',
-            url: '/car/live/movie.flv'
+            url: '/live/movie.flv'
         });
         flvPlayer.attachMediaElement(videoElement);
         flvPlayer.load();
